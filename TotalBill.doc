@@ -1,0 +1,18 @@
+		Customer Billing
+
+--------------------------------------------------
+Cust Id: 1	   Name: sk
+Address: delhi	   PhoneNo: 898799899
+
+No	name	Qty	Msp		GST		Total
+1	chips	2	100.00	18.00		236.00
+2	psta	3	150.00	27.00		531.00
+3	crem	1	80.87	14.56		95.43
+4	appl	3	60.89	10.96		215.55
+5	onio	4	80.32	14.46		379.11
+
+Total amount need to pay with discount is: 	1311.38
+Total Reward Point You earned 13.11
+
+
+		THANK YOU 
